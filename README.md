@@ -16,6 +16,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/GyanaGRS/test1/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/GyanaGRS/test1/tree/master/0066-plus-one) |
 ## Two Pointers
 |  |
@@ -26,4 +27,12 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/GyanaGRS/test1/tree/master/0088-merge-sorted-array) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/GyanaGRS/test1/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/GyanaGRS/test1/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
