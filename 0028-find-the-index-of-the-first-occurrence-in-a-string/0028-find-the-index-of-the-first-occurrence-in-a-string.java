@@ -1,4 +1,4 @@
-class Solution {
+class Solution {  //we can use string.indexOf 
     public int strStr(String haystack, String needle) {
         if(haystack.length()<needle.length()){
             return -1;
