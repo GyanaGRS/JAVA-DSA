@@ -9,6 +9,7 @@
 | [0066-plus-one](https://github.com/GyanaGRS/test1/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/GyanaGRS/test1/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/GyanaGRS/test1/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/GyanaGRS/test1/tree/master/0169-majority-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -30,10 +31,12 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/GyanaGRS/test1/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/GyanaGRS/test1/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/GyanaGRS/test1/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/GyanaGRS/test1/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/GyanaGRS/test1/tree/master/0205-isomorphic-strings) |
 ## String
 |  |
@@ -48,4 +51,12 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/GyanaGRS/test1/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/GyanaGRS/test1/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/GyanaGRS/test1/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
