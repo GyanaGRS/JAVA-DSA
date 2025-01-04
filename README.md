@@ -36,6 +36,7 @@
 | [0088-merge-sorted-array](https://github.com/GyanaGRS/test1/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/GyanaGRS/test1/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/GyanaGRS/test1/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/GyanaGRS/test1/tree/master/0389-find-the-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,6 +44,7 @@
 | [0169-majority-element](https://github.com/GyanaGRS/test1/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/GyanaGRS/test1/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/GyanaGRS/test1/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/GyanaGRS/test1/tree/master/0389-find-the-difference) |
 ## String
 |  |
 | ------- |
@@ -52,6 +54,7 @@
 | [0125-valid-palindrome](https://github.com/GyanaGRS/test1/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/GyanaGRS/test1/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/GyanaGRS/test1/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/GyanaGRS/test1/tree/master/0389-find-the-difference) |
 ## String Matching
 |  |
 | ------- |
@@ -68,4 +71,5 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/GyanaGRS/test1/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/GyanaGRS/test1/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
