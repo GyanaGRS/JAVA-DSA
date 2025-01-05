@@ -24,6 +24,7 @@
 | [0013-roman-to-integer](https://github.com/GyanaGRS/test1/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/GyanaGRS/test1/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/GyanaGRS/test1/tree/master/0268-missing-number) |
+| [1260-day-of-the-year](https://github.com/GyanaGRS/test1/tree/master/1260-day-of-the-year) |
 ## Two Pointers
 |  |
 | ------- |
@@ -61,6 +62,7 @@
 | [0344-reverse-string](https://github.com/GyanaGRS/test1/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/GyanaGRS/test1/tree/master/0389-find-the-difference) |
 | [0742-to-lower-case](https://github.com/GyanaGRS/test1/tree/master/0742-to-lower-case) |
+| [1260-day-of-the-year](https://github.com/GyanaGRS/test1/tree/master/1260-day-of-the-year) |
 ## String Matching
 |  |
 | ------- |
