@@ -60,6 +60,7 @@
 | [0205-isomorphic-strings](https://github.com/GyanaGRS/test1/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/GyanaGRS/test1/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/GyanaGRS/test1/tree/master/0389-find-the-difference) |
+| [0742-to-lower-case](https://github.com/GyanaGRS/test1/tree/master/0742-to-lower-case) |
 ## String Matching
 |  |
 | ------- |
