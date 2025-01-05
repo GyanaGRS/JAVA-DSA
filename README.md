@@ -10,6 +10,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/GyanaGRS/test1/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/GyanaGRS/test1/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/GyanaGRS/test1/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/GyanaGRS/test1/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/GyanaGRS/test1/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -35,6 +36,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/GyanaGRS/test1/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/GyanaGRS/test1/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/GyanaGRS/test1/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/GyanaGRS/test1/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/GyanaGRS/test1/tree/master/0389-find-the-difference) |
 ## Hash Table
@@ -43,6 +45,7 @@
 | [0013-roman-to-integer](https://github.com/GyanaGRS/test1/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/GyanaGRS/test1/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/GyanaGRS/test1/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/GyanaGRS/test1/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/GyanaGRS/test1/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/GyanaGRS/test1/tree/master/0389-find-the-difference) |
 ## String
