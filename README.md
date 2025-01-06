@@ -63,6 +63,7 @@
 | [0389-find-the-difference](https://github.com/GyanaGRS/test1/tree/master/0389-find-the-difference) |
 | [0742-to-lower-case](https://github.com/GyanaGRS/test1/tree/master/0742-to-lower-case) |
 | [1260-day-of-the-year](https://github.com/GyanaGRS/test1/tree/master/1260-day-of-the-year) |
+| [1283-reformat-date](https://github.com/GyanaGRS/test1/tree/master/1283-reformat-date) |
 ## String Matching
 |  |
 | ------- |
