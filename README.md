@@ -11,6 +11,7 @@
 | [0088-merge-sorted-array](https://github.com/GyanaGRS/test1/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/GyanaGRS/test1/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/GyanaGRS/test1/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/GyanaGRS/test1/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/GyanaGRS/test1/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/GyanaGRS/test1/tree/master/0414-third-maximum-number) |
 ## Binary Search
@@ -49,6 +50,7 @@
 | [0169-majority-element](https://github.com/GyanaGRS/test1/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/GyanaGRS/test1/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/GyanaGRS/test1/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/GyanaGRS/test1/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/GyanaGRS/test1/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/GyanaGRS/test1/tree/master/0389-find-the-difference) |
 ## String
@@ -81,4 +83,8 @@
 | ------- |
 | [0268-missing-number](https://github.com/GyanaGRS/test1/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/GyanaGRS/test1/tree/master/0389-find-the-difference) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/GyanaGRS/test1/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
