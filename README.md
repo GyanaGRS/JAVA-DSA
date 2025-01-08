@@ -14,6 +14,7 @@
 | [0219-contains-duplicate-ii](https://github.com/GyanaGRS/test1/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/GyanaGRS/test1/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/GyanaGRS/test1/tree/master/0414-third-maximum-number) |
+| [1306-minimum-absolute-difference](https://github.com/GyanaGRS/test1/tree/master/1306-minimum-absolute-difference) |
 ## Binary Search
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 | [0268-missing-number](https://github.com/GyanaGRS/test1/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/GyanaGRS/test1/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/GyanaGRS/test1/tree/master/0414-third-maximum-number) |
+| [1306-minimum-absolute-difference](https://github.com/GyanaGRS/test1/tree/master/1306-minimum-absolute-difference) |
 ## Hash Table
 |  |
 | ------- |
