@@ -63,6 +63,7 @@
 | [0219-contains-duplicate-ii](https://github.com/GyanaGRS/test1/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/GyanaGRS/test1/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/GyanaGRS/test1/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/GyanaGRS/test1/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/GyanaGRS/test1/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/GyanaGRS/test1/tree/master/0389-find-the-difference) |
 ## String
@@ -74,6 +75,7 @@
 | [0125-valid-palindrome](https://github.com/GyanaGRS/test1/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/GyanaGRS/test1/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/GyanaGRS/test1/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/GyanaGRS/test1/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/GyanaGRS/test1/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/GyanaGRS/test1/tree/master/0389-find-the-difference) |
 | [0742-to-lower-case](https://github.com/GyanaGRS/test1/tree/master/0742-to-lower-case) |
