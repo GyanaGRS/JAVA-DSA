@@ -25,6 +25,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/GyanaGRS/test1/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/GyanaGRS/test1/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/GyanaGRS/test1/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/GyanaGRS/test1/tree/master/0202-happy-number) |
