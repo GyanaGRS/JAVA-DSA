@@ -84,6 +84,7 @@
 | [0742-to-lower-case](https://github.com/GyanaGRS/test1/tree/master/0742-to-lower-case) |
 | [1260-day-of-the-year](https://github.com/GyanaGRS/test1/tree/master/1260-day-of-the-year) |
 | [1283-reformat-date](https://github.com/GyanaGRS/test1/tree/master/1283-reformat-date) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/GyanaGRS/test1/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## String Matching
 |  |
 | ------- |
@@ -113,4 +114,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/GyanaGRS/test1/tree/master/0020-valid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/GyanaGRS/test1/tree/master/2076-sum-of-digits-of-string-after-convert) |
 <!---LeetCode Topics End-->
