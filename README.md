@@ -67,6 +67,7 @@
 | [0290-word-pattern](https://github.com/GyanaGRS/test1/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/GyanaGRS/test1/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/GyanaGRS/test1/tree/master/0389-find-the-difference) |
+| [2186-count-vowel-substrings-of-a-string](https://github.com/GyanaGRS/test1/tree/master/2186-count-vowel-substrings-of-a-string) |
 ## String
 |  |
 | ------- |
@@ -85,6 +86,7 @@
 | [1260-day-of-the-year](https://github.com/GyanaGRS/test1/tree/master/1260-day-of-the-year) |
 | [1283-reformat-date](https://github.com/GyanaGRS/test1/tree/master/1283-reformat-date) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/GyanaGRS/test1/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2186-count-vowel-substrings-of-a-string](https://github.com/GyanaGRS/test1/tree/master/2186-count-vowel-substrings-of-a-string) |
 ## String Matching
 |  |
 | ------- |
