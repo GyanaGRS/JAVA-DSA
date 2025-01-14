@@ -16,6 +16,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/GyanaGRS/test1/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/GyanaGRS/test1/tree/master/0414-third-maximum-number) |
 | [1306-minimum-absolute-difference](https://github.com/GyanaGRS/test1/tree/master/1306-minimum-absolute-difference) |
+| [2093-check-if-string-is-a-prefix-of-array](https://github.com/GyanaGRS/test1/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -41,6 +42,7 @@
 | [0202-happy-number](https://github.com/GyanaGRS/test1/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/GyanaGRS/test1/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/GyanaGRS/test1/tree/master/0349-intersection-of-two-arrays) |
+| [2093-check-if-string-is-a-prefix-of-array](https://github.com/GyanaGRS/test1/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 ## Sorting
 |  |
 | ------- |
@@ -86,6 +88,7 @@
 | [1260-day-of-the-year](https://github.com/GyanaGRS/test1/tree/master/1260-day-of-the-year) |
 | [1283-reformat-date](https://github.com/GyanaGRS/test1/tree/master/1283-reformat-date) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/GyanaGRS/test1/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2093-check-if-string-is-a-prefix-of-array](https://github.com/GyanaGRS/test1/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/GyanaGRS/test1/tree/master/2186-count-vowel-substrings-of-a-string) |
 ## String Matching
 |  |
