@@ -17,6 +17,7 @@
 | [0414-third-maximum-number](https://github.com/GyanaGRS/test1/tree/master/0414-third-maximum-number) |
 | [1306-minimum-absolute-difference](https://github.com/GyanaGRS/test1/tree/master/1306-minimum-absolute-difference) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/GyanaGRS/test1/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/GyanaGRS/test1/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 ## Binary Search
 |  |
 | ------- |
@@ -89,6 +90,7 @@
 | [1283-reformat-date](https://github.com/GyanaGRS/test1/tree/master/1283-reformat-date) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/GyanaGRS/test1/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/GyanaGRS/test1/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/GyanaGRS/test1/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/GyanaGRS/test1/tree/master/2186-count-vowel-substrings-of-a-string) |
 ## String Matching
 |  |
