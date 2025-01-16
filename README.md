@@ -89,6 +89,7 @@
 | [1260-day-of-the-year](https://github.com/GyanaGRS/test1/tree/master/1260-day-of-the-year) |
 | [1283-reformat-date](https://github.com/GyanaGRS/test1/tree/master/1283-reformat-date) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/GyanaGRS/test1/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/GyanaGRS/test1/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/GyanaGRS/test1/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/GyanaGRS/test1/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/GyanaGRS/test1/tree/master/2186-count-vowel-substrings-of-a-string) |
@@ -125,4 +126,8 @@
 |  |
 | ------- |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/GyanaGRS/test1/tree/master/2076-sum-of-digits-of-string-after-convert) |
+## Greedy
+|  |
+| ------- |
+| [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/GyanaGRS/test1/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 <!---LeetCode Topics End-->
